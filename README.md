@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **applied machine learning.**
 
-- 📫 How to reach me **tomioluwasile@gmail.com**
+- 📫 How to reach me: **tomioluwasile@gmail.com**
 
-- ⚡ Fun fact **I love Aussies!**
+- ⚡ Fun fact: **I love Aussies!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
