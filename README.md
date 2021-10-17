@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **applied machine learning.**
 
-- 📫 How to reach me: **tomioluwasile@gmail.com**
+- 📫 How to reach me: **send me a private message on LinkedIn or email: tomioluwasile@gmail.com**
 
 - ⚡ Fun fact: **I love Aussies!**
 
