@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomioluwasile&label=Profile%20views&color=38a85f&style=plastic" alt="tomioluwasile" /> </p>
 
-- 🔭 I’m currently working on **WhatsBot - an NLP model trained using my WhatsApp messages.**
+- 🔭 I’m working on **WhatsBot - an NLP model trained using my WhatsApp messages.**
 
 - 🌱 I’m currently learning **Jetpack Compose and Firebase.**
 
