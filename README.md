@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomioluwasile&label=Profile%20views&color=38a85f&style=plastic" alt="tomioluwasile" /> </p>
 
-- 🔭 I’m working on **WhatsBot - an NLP model trained using my WhatsApp messages.**
+- 🔭 I’m working on **a computer vision mobile app.**
 
-- 🌱 I’m currently learning **Jetpack Compose and Firebase.**
+- 🌱 I’m currently learning **Database management in android.**
 
-- 🤝 I’m looking for help with **AWS.**
+- 🤝 I’m looking for help with **Code Documentation.**
 
-- 💬 Ask me about **applied machine learning.**
+- 💬 Ask me about **machine learning.**
 
-- 📫 How to reach me: **send me a private message on LinkedIn or email: tomioluwasile@gmail.com**
+- 📫 How to reach me: **send me a dm or email: tomioluwasile@gmail.com**
 
 - ⚡ Fun fact: **I love Aussies!**
 
