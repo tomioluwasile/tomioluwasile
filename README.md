@@ -5,7 +5,7 @@
 
 - 🔭 I’m working on **a computer vision mobile app.**
 
-- 🌱 I’m currently learning **Database management in android.**
+- 🌱 I’m currently learning **Kotlin Coroutines**
 
 - 🤝 I’m looking for help with **Code Documentation.**
 
