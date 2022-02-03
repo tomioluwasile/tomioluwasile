@@ -1,24 +1,16 @@
 <h1 align="center">Hi there! I'm Tomi.</h1>
-<h3 align="center">I create machine learning models and android applications.</h3>
+<h3 align="center">I drink more water than coffee</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomioluwasile&label=Profile%20views&color=38a85f&style=plastic" alt="tomioluwasile" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomioluwasile&label=Profile%20views&color=38a85f&style=plastic" alt="tomioluwasile" /> </p> -->
 
-- 🔭 I’m working on **a computer vision mobile app.**
+**...on my way to creating efficient and useable AI products.**
 
-- 🌱 I’m currently learning **Kotlin Coroutines**
-
-- 🤝 I’m looking for help with **Code Documentation.**
-
-- 💬 Ask me about **machine learning.**
-
-- 📫 How to reach me: **send me a dm or email: tomioluwasile@gmail.com**
-
-- ⚡ Fun fact: **I love Aussies!**
+Here in my repo, you'll find my go-to scripts, side-projects, learning resources and more. I'm actively working to make this robust and more resourceful for developers like you. Feel free to stretch out your fork to contribute. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tomioluwasile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomioluwasile" height="30" width="40" /></a>
-<a href="https://kaggle.com/tomioluwasile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tomioluwasile" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/tomioluwasile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tomioluwasile" height="30" width="40" /></a> -->
 <a href="https://instagram.com/tomioluwasile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomioluwasile" height="30" width="40" /></a>
 </p>
 
